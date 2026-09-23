@@ -53,6 +53,8 @@ Run the following command to install the required dependencies:
 pip install -r requirements.in
 ```
 
+---
+
 ## Project Structure
 
 The project main script files are located in the `src` folder, while the dataset and output files are stored in the `data` folder.
@@ -61,6 +63,8 @@ The project main script files are located in the `src` folder, while the dataset
   ├── src
   ├── data
 ```
+
+---
 
 ## Project Pipeline Overview
 
