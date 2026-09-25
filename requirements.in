@@ -4,3 +4,5 @@ contractions
 scikit-learn
 ipykernel
 ipywidgets
+matplotlib
+spacy
